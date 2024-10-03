@@ -1,3 +1,5 @@
 Hi I am Deepak Pandey java Developer currently working in Fujitsu Softare Solution Private limited.
 
-Hello Aniruddha Pyara Beta in develop branch
+Hello Aniruddha Pyara Beta in develop branch.
+
+Git stash command for 2nd Tsk
